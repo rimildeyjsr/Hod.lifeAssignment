@@ -1,0 +1,30 @@
+html,body {
+    height: 100%;
+    width: 100%;
+    border: 0;
+    padding: 0;
+}
+
+table {
+    margin: 0 auto;
+}
+
+td {
+    text-align: left !important;
+    font-size: 1.5em;
+}
+
+th {
+    font-size: 2em !important;
+    font-weight: bold !important;
+    text-align: left !important;
+}
+
+.flag-img,.country-flag {
+    width: 50px;
+    height: auto;
+}
+
+.mdl-dialog {
+    width: 75% !important;
+}
